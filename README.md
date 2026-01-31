@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**haasini49-p/haasini49-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Haasini 👋
 
-Here are some ideas to get you started:
+🎓 Engineering Student  
+🔐 Cybersecurity Enthusiast  
+🎨 Frontend & UI/UX Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- Cybersecurity basics (SOC, networking, security tools)
+- HTML, CSS, JavaScript
+- UI/UX Design (Figma)
+- Git & GitHub
+
+### 📌 Currently Working On
+- Cybersecurity projects for placements
+- Frontend mini projects
+- Strengthening GitHub & LinkedIn
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/yourusername
